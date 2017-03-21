@@ -1,0 +1,55 @@
+<div class="panel panel-default">
+
+                         <div style="padding:10px;text-align:center;" class="shv">
+	<form action="/" name="search_xf" method="get">	
+	<input type="hidden" name="do" value="search_xf">
+	<input type="hidden" name="loc" value="1">
+    <input type="hidden" name="news_direction_by" value="DESC">
+	<select name="category" class="select" id="select">
+        <option value="">Выберите категорию</option>
+		<option value="6">Абстракция</option>
+        <option value="7">Бизнес</option>
+        <option value="8">Время</option>
+        <option value="9">Команда</option>
+        <option value="10">Коммуникация</option>
+        <option value="11">Лидерство</option>
+        <option value="12">Медицина</option>
+        <option value="13">Наука</option>
+        <option value="14">Недвижимость</option>
+        <option value="15">Обучение</option>
+        <option value="17">Персонал</option>
+		<option value="16">Праздники</option>
+        <option value="25">Природа</option>       
+        <option value="18">Разное</option>
+        <option value="27">Рисованные</option>
+        <option value="24">Спорт</option>
+		<option value="19">Технологии</option>
+		<option value="20">Транспорт</option>
+        <option value="21">Туризм</option>
+        <option value="22">Финансы</option>
+        <option value="28">Школьные</option>
+        <option value="23">Юриспруденция</option>
+	</select>
+        <select name="colour1" class="select" id="select">
+		<option value="">Выберите цвет</option>
+		<option value="beige">Бежевый</option>
+        <option value="white">Белый</option>
+		<option value="blue">Голубой</option>
+		<option value="yellow">Желтый</option>
+		<option value="green">Зеленый</option>
+		<option value="gold">Золотой</option>
+		<option value="broun">Коричневый</option>
+        <option value="red">Красный</option>
+		<option value="orange">Оранжевый</option>
+        <option value="pink">Розовый</option>
+		<option value="grey">Серый</option>
+        <option value="bldrk">Синий</option>
+		<option value="purple">Фиолетовый</option>
+        <option value="black">Черный</option>
+		<option value="multi">Многоцветный</option>
+	</select>
+	<input type="submit" class="xfsub" value=" Поиск " id="myButton">
+</form>
+</div>
+
+</div>

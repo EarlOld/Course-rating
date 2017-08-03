@@ -1,0 +1,161 @@
+
+.body {
+background:#f0f0f0;
+}
+
+select{
+  width: 300px;
+}
+input{
+  width: 300px;
+}
+.hello{
+  position: absolute;
+	margin-top: -38px;
+}
+.exit{
+  position: absolute;
+  margin-top: -38px;
+  margin-left: 1260px;
+}
+.nav-collapse{
+  margin-right: -100px;
+}
+.button8 {
+  align-items: center;
+  display: inline-block;
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+}
+.button8:hover {
+   background: rgba(255,255,255,.2);
+   color: red;
+ }
+.button8:active { background: white; }
+
+.select{
+  margin-top: 60px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.select h1{
+  margin-bottom: 20px;
+}
+#info-group{
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  background: white;
+  min-height: 200px;
+}
+#info-group .left{
+  text-align: left;
+  padding: 5px;
+}
+#info-group .content{
+  text-align: left;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+#content{
+  width: 100%;
+  padding: .5em 2em;
+  margin-top: 20  px;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  background: white;
+  min-height: 200px;
+
+}
+#content .features-table td{
+  padding: 5px;
+}
+.my_green{
+  background: green;
+  color: white;
+}
+#content .features-table th{
+
+ }
+#content .features-table{
+  width: 100%;
+  text-align: center;
+}
+#content .features-table, #content .features-table tbody, #content .features-table td, #content .features-table th{
+
+  border: 1px solid black;
+}
+
+.select  .departament{
+  align-items: center;
+  display: inline-block;
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+  width: 400px;
+}
+
+.select  .profession{
+  margin-top: 10px;
+  align-items: center;
+  display: inline-block;
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+  width: 400px;
+}
+.select  .course{
+  text-align: center;
+  margin-top: 10px;
+  align-items: center;
+  display: inline-block;
+  color: black;
+  width: 400px;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+}
+.select  .group{
+  text-align: center;
+  margin-top: 10px;
+  align-items: center;
+  display: inline-block;
+  color: black;
+  width: 400px;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+}
